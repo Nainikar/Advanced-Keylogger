@@ -1,1 +1,1 @@
-#Here you will find encrypted data
+#Here you will find encrypted logged data
